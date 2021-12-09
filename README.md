@@ -9,3 +9,4 @@ PHP, HTML, CSS, JavaScript
 - Edit member list
 - Filter
 - Search function
+- Input Validation
